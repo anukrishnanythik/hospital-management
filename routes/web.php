@@ -14,7 +14,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 
-Route::get('/', 'homeController@index');
+Route::get('/', 'homeController@index')->name('home');
 Route::get('/home', 'homeController@redirects')->name('redirecthome')->middleware('auth','verified');
 
 

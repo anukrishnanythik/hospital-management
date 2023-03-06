@@ -1,5 +1,5 @@
 
-<div class="page-section bg-light">
+<div class="page-section bg-light" id="news">
     <div class="container">
       <h1 class="text-center wow fadeInUp">Latest News</h1>
       <div class="row mt-5">
@@ -9,12 +9,12 @@
               <div class="post-category">
                 <a href="#">Covid19</a>
               </div>
-              <a href="blog-details.html" class="post-thumb">
+              <a href="" class="post-thumb">
                 <img src="../assets/img/blog/blog_1.jpg" alt="">
               </a>
             </div>
             <div class="body">
-              <h5 class="post-title"><a href="blog-details.html">List of Countries without Coronavirus case</a></h5>
+              <h5 class="post-title"><a href="">List of Countries without Coronavirus case</a></h5>
               <div class="site-info">
                 <div class="avatar mr-2">
                   <div class="avatar-img">
@@ -33,12 +33,12 @@
               <div class="post-category">
                 <a href="#">Covid19</a>
               </div>
-              <a href="blog-details.html" class="post-thumb">
+              <a href="" class="post-thumb">
                 <img src="../assets/img/blog/blog_2.jpg" alt="">
               </a>
             </div>
             <div class="body">
-              <h5 class="post-title"><a href="blog-details.html">Recovery Room: News beyond the pandemic</a></h5>
+              <h5 class="post-title"><a href="">Recovery Room: News beyond the pandemic</a></h5>
               <div class="site-info">
                 <div class="avatar mr-2">
                   <div class="avatar-img">
@@ -57,12 +57,12 @@
               <div class="post-category">
                 <a href="#">Covid19</a>
               </div>
-              <a href="blog-details.html" class="post-thumb">
+              <a href="" class="post-thumb">
                 <img src="../assets/img/blog/blog_3.jpg" alt="">
               </a>
             </div>
             <div class="body">
-              <h5 class="post-title"><a href="blog-details.html">What is the impact of eating too much sugar?</a></h5>
+              <h5 class="post-title"><a href="">What is the impact of eating too much sugar?</a></h5>
               <div class="site-info">
                 <div class="avatar mr-2">
                   <div class="avatar-img">
@@ -77,7 +77,7 @@
         </div>
 
         <div class="col-12 text-center mt-4 wow zoomIn">
-          <a href="blog.html" class="btn btn-primary">Read More</a>
+          <a href="" class="btn btn-primary">Read More</a>
         </div>
 
       </div>
